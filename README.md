@@ -10,7 +10,7 @@
     * G165_alldata_colorcoat.xlsx contains all the data colorcoded to match the ds9 files containing all of the data
     * G165_upperlowerdata_colorcoat.xlsx contains the data in 3 sigma split up between + and - 3 sigma that matches the ds9 files
         * note : ds9 files not in this repository because the files exceed the size limit
- * Used data from G165_zrange_3sig.txt to calculate the Velocity Dispersion and subsequentely the Dynamical Mass in the code DynamicalMassProgram.ipynb.
+ * Used data from G165_zrange_3sig.txt to calculate the Velocity Dispersion and subsequently the Dynamical Mass in the code DynamicalMassProgram.ipynb.
     * Some more data points were eliminated based on the calculated velocity dispersion.
  
 "QuesarIdentification" contains research done on identifying quesars around protoclusters. This was done because quesars cause a lot of light polution, which needs to be eliminated in order to get accurate data on each of the protoclusters. SDSS was used to identify the quesars and get spectral data. Each file contains quesar data around a different protocluster, the file names are the protocluster names
