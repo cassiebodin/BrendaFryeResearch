@@ -13,4 +13,4 @@
  * Used data from G165_zrange_3sig.txt to calculate the Velocity Dispersion and subsequently the Dynamical Mass in the code DynamicalMassProgram.ipynb.
     * Some more data points were eliminated based on the calculated velocity dispersion.
  
-"QuesarIdentification" contains research done on identifying quesars around protoclusters. This was done because quesars cause a lot of light polution, which needs to be eliminated in order to get accurate data on each of the protoclusters. SDSS was used to identify the quesars and get spectral data. Each file contains quesar data around a different protocluster, the file names are the protocluster names
+"QuasarIdentification" contains research done on identifying quesars around protoclusters. This was done because quasars cause a lot of light polution, which needs to be eliminated in order to get accurate data on each of the protoclusters. SDSS was used to identify the quasars and get spectral data. Each file contains quesar data around a different protocluster, the file names are the protocluster names.
